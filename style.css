@@ -33,3 +33,31 @@ section{
     color: white;
     font-weight: 700px;
 }
+body{
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.rifat{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.rifat img{
+    width: 100%;
+}
+.drem-bg{
+    background-image:url("image/dream-bg.png") ;
+    background-repeat: no-repeat;
+}
+.abdulla{
+  text-decoration: none;  
+ background-image:linear-gradient(40deg,orange,red );
+ padding: 10px 20px;
+ border-radius: 20px;
+ color: white;
+ font-weight: 700;
+}
