@@ -51,13 +51,9 @@ section{
     color: white;
     font-weight: 700px;
     }
-    .abdulla{
-        text-decoration: none;
-    background-image: linear-gradient(45deg,orange,red);
-    padding: 10px 20px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 700px;
-
+    .dream-area{
+        background-image:url("image/dream-bg.png");
+        background-repeat: no-repeat;
+        background-position: right;
     }
     
