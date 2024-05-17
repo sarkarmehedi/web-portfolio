@@ -23,7 +23,7 @@ p{
 
 }
 
-.murgi{
+.orange-highlight{
     color:orange;
 }
 .half-width{
@@ -56,4 +56,11 @@ section{
         background-repeat: no-repeat;
         background-position: right;
     }
-    
+    .single-experience{
+        box-shadow: 10px 10px 40px gray;
+        border-radius: 5px;
+        height: 70%;
+    }
+    .experience-area{
+        background-image: url("images/exp-bg.png");
+    }
